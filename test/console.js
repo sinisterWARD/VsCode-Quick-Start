@@ -1,2 +1,2 @@
-console.log("rise and shine")
-console.log("ready for a new day")
+consle.log("rise and shine")
+consle.log("ready for a new day")
