@@ -1,2 +1,3 @@
-var msg = "hello world";
-console.log(msg);
+console.log ("---------------------")
+console.log ("hello world")
+console.log ("java is working here")
