@@ -1,2 +1,2 @@
-consle.log("rise and shine")
-consle.log("ready for a new day")
+console.log("asd")
+console.timeLog = 12; 12
